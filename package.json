@@ -1,0 +1,9 @@
+{
+  "name": "opencode-desktop-plugins-workspace",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Dependency-free development checks for the desktop plugin packages.",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node scripts/check.cjs" }
+}

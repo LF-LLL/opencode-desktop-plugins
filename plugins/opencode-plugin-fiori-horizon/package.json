@@ -1,0 +1,11 @@
+{
+  "name": "opencode-plugin-fiori-horizon",
+  "version": "1.4.1",
+  "private": true,
+  "license": "(MIT AND Apache-2.0)",
+  "description": "Fiori Horizon-inspired themes and visual styling for OpenCode Desktop. No search or file operations.",
+  "exports": {
+    ".": "./server.ts",
+    "./gui-experimental": "./gui-experimental.cjs"
+  }
+}
